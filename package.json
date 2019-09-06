@@ -1,5 +1,5 @@
 {
-  "name": "hadoop-streaming-utils",
+  "name": "@ulangi/hadoop-streaming-utils",
   "version": "0.0.8",
   "description": "Hadoop streaming utils for NodeJS",
   "main": "lib/hadoop-streaming-utils.js",
